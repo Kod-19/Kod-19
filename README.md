@@ -102,9 +102,8 @@ I'm always open to:
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
+- GitHub: https://github.com/Kod-19
+- LinkedIn: https://linkedin.com/in/kwameofeidawson
 
 ---
 
