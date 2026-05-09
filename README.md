@@ -117,9 +117,9 @@ I enjoy turning ideas into fully functional web applications and continuously ch
 
 <!-- Replace "yourusername" with your actual GitHub username -->
 
-![Kwame's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Kwame's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kod-19&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kod-19&layout=compact&theme=tokyonight)
 
 ---
 
