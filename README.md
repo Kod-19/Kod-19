@@ -101,8 +101,8 @@ My goal is to build applications that are fast, scalable, responsive, and enjoya
 
 ## Connect With Me
 
-- GitHub: [github.com/Kod-19](https://github.com/Kod-19)
-- LinkedIn: [linkedin.com/in/kwameofeidawson](https://linkedin.com/in/kwameofeidawson)
+[![GitHub](https://img.shields.io/badge/GitHub-Kod--19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kod-19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwame_Dawson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kwameofeidawson)
 
 ---
 
