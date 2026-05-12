@@ -20,6 +20,8 @@ My work centers around the MERN stack, where I create frontend interfaces, backe
 
 ## Tech Stack
 
+<div align="center">
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,6 +47,8 @@ My work centers around the MERN stack, where I create frontend interfaces, backe
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
 
 ---
 
