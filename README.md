@@ -119,13 +119,6 @@ I enjoy turning ideas into fully functional web applications and continuously ch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kod-19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kod-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kod-19&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
 </div>
