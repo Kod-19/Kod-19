@@ -1,6 +1,8 @@
 <div align='center'>
+
 # Hi, I'm Kwame Dawson
 ## CEO Of KD Studios
+
 </div>
 
 ### MERN Stack Developer | JavaScript Enthusiast | Problem Solver
