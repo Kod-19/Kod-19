@@ -1,6 +1,5 @@
 <div align='center'>
 # Hi, I'm Kwame Dawson
-
 ## CEO Of KD Studios
 </div>
 
