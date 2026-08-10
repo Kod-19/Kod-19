@@ -197,17 +197,6 @@ My goal is to build applications that are:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kod-19&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 <br />
-
-### 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kod-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9" alt="Kwame's GitHub Stats" />
-
-<br />
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kod-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Most Used Languages" />
-
 </div>
 
 ---
