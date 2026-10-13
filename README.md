@@ -10,7 +10,6 @@ I'm continuously strengthening my software engineering fundamentals while buildi
 
 ## About Me
 
-- Computer Science student at the **University of Ghana**.
 - Full-stack developer working with the **MERN stack**.
 - Building web interfaces with React, JavaScript, Vite, and Tailwind CSS.
 - Exploring mobile development with React Native and Expo.
