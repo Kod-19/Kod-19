@@ -1,4 +1,4 @@
-# Kwame Dawson
+# Hi, I'm Kwame
 
 ### Full-Stack Web Developer | React & JavaScript Developer | Mobile Developer
 
